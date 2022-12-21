@@ -1,0 +1,31 @@
+.img-town {
+  width: 190px;
+  height: 100px;
+}
+.table-towns {
+  margin: 5vh 10vw 0 10vw;
+  width: 80%;
+}
+.title {
+  text-align: center;
+  color: gray;
+  font-size: 28px;
+}
+th {
+  border: 2px solid black;
+}
+td {
+  text-align: center;
+}
+table tr:nth-child(2n + 3) {
+  background-color: #e9ecef;
+}
+.footnote {
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 10vw;
+}
+tr td:nth-last-child(1) {
+  width: 190px;
+  height: 100px;
+}
